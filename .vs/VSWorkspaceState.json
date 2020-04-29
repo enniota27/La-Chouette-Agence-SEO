@@ -3,9 +3,10 @@
     "",
     "\\css",
     "\\fonts",
+    "\\img",
     "\\includes",
     "\\js"
   ],
-  "SelectedNode": "\\style.css",
+  "SelectedNode": "\\js\\jquery-2.1.0.js",
   "PreviewInSolutionExplorer": false
 }
