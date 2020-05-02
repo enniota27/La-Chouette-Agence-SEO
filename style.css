@@ -626,8 +626,10 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
-    display: flex;
-    justify-content: space-between;
+}
+
+.access{
+    color:#fff
 }
 
 h2 {
@@ -918,5 +920,12 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0
+    }
+}
+
+@media (max-width:768px) {
+    .social {
+        display: flex;
+        justify-content: space-between;
     }
 }
