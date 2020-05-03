@@ -601,7 +601,7 @@ p {
 }
 
 p {
-    font-size: 11px
+    font-size: 12px
 }
 
 .tight-width-whitespace {
@@ -927,6 +927,9 @@ h4 {
     .social {
         display: flex;
         justify-content: space-between;
+    }
+    .espace>li {
+        margin-bottom:30px;
     }
 }
 
